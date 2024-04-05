@@ -7,5 +7,7 @@ public class Main {
         Contact [] contacts = new Contact[3];
 
         contacts[0] = new Contact("David", "Sanger", "Argos LLC", "Sales Manager", 2401330011L, "dave.sang@gmail.com");
+
+
     }
 }
